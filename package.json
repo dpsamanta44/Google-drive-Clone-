@@ -1,0 +1,10 @@
+{
+  "name": "google-drive-clone",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.373.0"
+  }
+}
